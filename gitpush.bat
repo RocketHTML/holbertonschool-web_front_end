@@ -1,3 +1,3 @@
 git add -A .
-git commit -m "auto_push"
+git commit -m "add styleguide"
 git push origin master
