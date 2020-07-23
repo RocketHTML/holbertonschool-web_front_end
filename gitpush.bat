@@ -1,3 +1,3 @@
 git add -A .
-git commit -m "add paragraphs"
+git commit -m "add another section"
 git push origin master
