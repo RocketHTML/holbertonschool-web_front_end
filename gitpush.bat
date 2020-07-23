@@ -1,3 +1,3 @@
 git add -A .
-git commit -m "add another section"
+git commit -m "Wrap contents in divs"
 git push origin master
